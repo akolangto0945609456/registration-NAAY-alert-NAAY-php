@@ -8,6 +8,10 @@ C:\xampp\htdocs\myproject\
 <img width="262" height="33" alt="image" src="https://github.com/user-attachments/assets/c09fe4cf-f376-4c44-81a0-594a565129cc" />
 
 # 2. Start Apache in the XAMPP Control Panel.
+
+<img width="669" height="415" alt="image" src="https://github.com/user-attachments/assets/4901b4c9-1627-4ce9-a2a0-15920aa0aad5" />
+
+
 # 3. Open the form in your browser at: example
 http://localhost/myproject/index.html
 
