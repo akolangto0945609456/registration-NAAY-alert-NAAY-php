@@ -5,6 +5,9 @@
 # 1. Save your files (index.html, register.php, records.php) inside: example
 C:\xampp\htdocs\myproject\
 
+<img width="814" height="458" alt="image" src="https://github.com/user-attachments/assets/792d4a61-dd38-43b5-991d-52e12d618861" />
+
+
 <img width="262" height="33" alt="image" src="https://github.com/user-attachments/assets/c09fe4cf-f376-4c44-81a0-594a565129cc" />
 
 # 2. Start Apache in the XAMPP Control Panel.
