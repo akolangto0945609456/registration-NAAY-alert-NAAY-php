@@ -5,7 +5,7 @@
 # 1. Save or copy your files (index.html, register.php, records.php) inside: example
 C:\xampp\htdocs\myproject\
 
-<img width="262" height="33" alt="image" src="https://github.com/user-attachments/assets/c09fe4cf-f376-4c44-81a0-594a565129cc" />
+# <img width="262" height="33" alt="image" src="https://github.com/user-attachments/assets/c09fe4cf-f376-4c44-81a0-594a565129cc" />
 
 <img width="1053" height="597" alt="image" src="https://github.com/user-attachments/assets/bafefae3-6ddd-4033-b041-4b8f6d02b295" />
 
