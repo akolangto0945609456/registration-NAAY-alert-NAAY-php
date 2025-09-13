@@ -19,7 +19,7 @@ C:\xampp\htdocs\myproject\
 <img width="669" height="415" alt="image" src="https://github.com/user-attachments/assets/4901b4c9-1627-4ce9-a2a0-15920aa0aad5" />
 
 
-# 3. Open the form in your browser at: example
+# 3. Open the form in your browser at: example  : http://localhost/(file sa project)/index.html
 http://localhost/myproject/index.html
 
 # <img width="384" height="44" alt="image" src="https://github.com/user-attachments/assets/4eeb89b7-171d-4800-967c-46e48d107d3b" />
