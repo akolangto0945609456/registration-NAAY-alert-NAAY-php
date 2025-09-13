@@ -2,7 +2,7 @@
 
 # para run sa PHP gamit sa XAMMP 
 
-# 1. Save your files (index.html, register.php, records.php) inside: example
+# 1. Save or copy your files (index.html, register.php, records.php) inside: example
 C:\xampp\htdocs\myproject\
 
 <img width="262" height="33" alt="image" src="https://github.com/user-attachments/assets/c09fe4cf-f376-4c44-81a0-594a565129cc" />
