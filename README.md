@@ -7,6 +7,10 @@ C:\xampp\htdocs\myproject\
 
 <img width="262" height="33" alt="image" src="https://github.com/user-attachments/assets/c09fe4cf-f376-4c44-81a0-594a565129cc" />
 
+<img width="1053" height="597" alt="image" src="https://github.com/user-attachments/assets/bafefae3-6ddd-4033-b041-4b8f6d02b295" />
+
+<img width="892" height="609" alt="image" src="https://github.com/user-attachments/assets/3ae23663-bf65-46ed-be53-08f360fb45e6" />
+
 <img width="814" height="458" alt="image" src="https://github.com/user-attachments/assets/792d4a61-dd38-43b5-991d-52e12d618861" />
 
 
