@@ -5,7 +5,7 @@
 # 1. Save your files (index.html, register.php, records.php) inside: example
 C:\xampp\htdocs\myproject\
 
-<img width="584" height="69" alt="image" src="https://github.com/user-attachments/assets/d0f486ab-af4d-4f59-94e9-d5f4226e7fa5" />
+<img width="262" height="33" alt="image" src="https://github.com/user-attachments/assets/c09fe4cf-f376-4c44-81a0-594a565129cc" />
 
 # 2. Start Apache in the XAMPP Control Panel.
 # 3. Open the form in your browser at: example
